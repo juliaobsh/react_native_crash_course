@@ -23,6 +23,9 @@ Yarn Track is your personal crochet tracker app designed to make managing your c
 - **JavaScript/TypeScript**: Core programming languages.
 - **Figma**: For app design and prototyping.
 
+Document with all the development process and ideas can be found [here](https://docs.google.com/document/d/1eLRx552_Hpg9-hlKgcBj2WyCv4GtIrLCuwjQNeUZsl0/edit?usp=sharing). (not fully finished)
+
+Figma Design for this project can be found [here](https://www.figma.com/design/XCGn1lDI0ev75TPLvwODsv/Yarn-Track-App-%7C-Organization-App-%7C-UI-Design?node-id=1-3651&t=aFtE1X0uxZ4lcg1g-1). (not fully finished)
 
 ---
 
