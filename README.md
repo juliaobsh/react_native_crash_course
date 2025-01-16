@@ -1,3 +1,34 @@
+# Yarn Track
+
+Yarn Track is your personal crochet tracker app designed to make managing your crochet projects fun, organized, and engaging. Whether you’re documenting completed projects or tracking your progress on current ones, Yarn Track is here to help. With features like progress tracking, insights, and a fun yarn-pal mascot, the app ensures your crochet journey is enjoyable and rewarding.
+
+## Features
+
+### Current Features (Still Work-in-Progress)
+- **Project Documentation**: Easily document your completed and in-progress crochet projects with photos, notes, and patterns.
+- **Progress Tracking**: Monitor your progress on specific projects with percentage completion, milestones, and deadlines.
+- **Insights & Stats**: Get detailed insights and statistics on your crochet work, such as time spent, yarn used, and project types.
+
+### Planned Features
+- **Material Inventory**: Keep track of your yarn stash, hooks, and other supplies.
+- **Pattern Library**: Save and organize your favorite crochet patterns.
+- **Reminders & Alerts**: Set reminders for project deadlines and supply restocks.
+- **Community Features**: Connect with other crochet enthusiasts and share your projects.
+- **Customization Options**: Personalize the app with themes and layouts.
+- **Yarn-Pal Mascot**: Interact with a friendly app mascot who guides you through tutorials, collects project details, and encourages you with analytics messages.
+
+## Technologies Used
+- **React Native**: For cross-platform mobile app development.
+- **Expo**: To simplify development and testing of React Native apps.
+- **JavaScript/TypeScript**: Core programming languages.
+- **Figma**: For app design and prototyping.
+
+
+---
+
+Happy crocheting with Yarn Track!
+
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
@@ -41,10 +72,3 @@ To learn more about developing your project with Expo, look at the following res
 
 - [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
 - [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
