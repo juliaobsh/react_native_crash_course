@@ -1,50 +1,32 @@
-# Welcome to your Expo app 👋
+# Yarn Track
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Yarn Track is your personal crochet tracker app designed to make managing your crochet projects fun, organized, and engaging. Whether you’re documenting completed projects or tracking your progress on current ones, Yarn Track is here to help. With features like progress tracking, insights, and a fun yarn-pal mascot, the app ensures your crochet journey is enjoyable and rewarding.
 
-## Get started
+## Features
 
-1. Install dependencies
+### Current Features (Still Work-in-Progress)
+- **Project Documentation**: Easily document your completed and in-progress crochet projects with photos, notes, and patterns.
+- **Progress Tracking**: Monitor your progress on specific projects with percentage completion, milestones, and deadlines.
+- **Insights & Stats**: Get detailed insights and statistics on your crochet work, such as time spent, yarn used, and project types.
 
-   ```bash
-   npm install
-   ```
+### Planned Features
+- **Material Inventory**: Keep track of your yarn stash, hooks, and other supplies.
+- **Pattern Library**: Save and organize your favorite crochet patterns.
+- **Reminders & Alerts**: Set reminders for project deadlines and supply restocks.
+- **Community Features**: Connect with other crochet enthusiasts and share your projects.
+- **Customization Options**: Personalize the app with themes and layouts.
+- **Yarn-Pal Mascot**: Interact with a friendly app mascot who guides you through tutorials, collects project details, and encourages you with analytics messages.
 
-2. Start the app
+## Technologies Used
+- **React Native**: For cross-platform mobile app development.
+- **Expo**: To simplify development and testing of React Native apps.
+- **JavaScript/TypeScript**: Core programming languages.
+- **Figma**: For app design and prototyping.
 
-   ```bash
-    npx expo start
-   ```
+Document with all the development process and ideas can be found [here](https://docs.google.com/document/d/1eLRx552_Hpg9-hlKgcBj2WyCv4GtIrLCuwjQNeUZsl0/edit?usp=sharing). (not fully finished)
 
-In the output, you'll find options to open the app in a
+Figma Design for this project can be found [here](https://www.figma.com/design/XCGn1lDI0ev75TPLvwODsv/Yarn-Track-App-%7C-Organization-App-%7C-UI-Design?node-id=1-3651&t=aFtE1X0uxZ4lcg1g-1). (not fully finished)
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+---
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Happy crocheting with Yarn Track!
