@@ -10,7 +10,7 @@ SplashScreen.preventAutoHideAsync();
 
 const RootLayout = () => {
   const [fontsLoaded, error] = useFonts({
-    "Poppins-Black": require("../assets/fonts/Poppins-Black.ttf"),
+  "Poppins-Black": require("../assets/fonts/Poppins-Black.ttf"),
   "Poppins-Bold": require("../assets/fonts/Poppins-Bold.ttf"),
   "Poppins-ExtraBold": require("../assets/fonts/Poppins-ExtraBold.ttf"),
   "Poppins-ExtraLight": require("../assets/fonts/Poppins-ExtraLight.ttf"),
@@ -22,9 +22,16 @@ const RootLayout = () => {
   });
 
   useEffect(() => {
-    if(error) throw error;
-    if(fontsLoaded) SplashScreen.hideAsync();
-  }, [fontsLoaded, error])
+    if (error) {
+      throw error;
+    }
+    if (fontsLoaded) {
+      SplashScreen.hideAsync();
+    }
+  }, [fontsLoaded, error]);
+
+  if (!fontsLoaded && !error) return null;
+  
 
   if(!fontsLoaded && !error) return null;
 
@@ -35,4 +42,4 @@ const RootLayout = () => {
   )
 }
 
-export default Slot;
+export default RootLayout;
